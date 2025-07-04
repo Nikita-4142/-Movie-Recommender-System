@@ -38,5 +38,6 @@ cd movie-recommender-system
 
 streamlit run app.py
 api_key = "your_tmdb_api_key"
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 
